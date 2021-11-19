@@ -1,0 +1,3 @@
+[submodule "Dapp-Learning"]
+	path = Dapp-Learning
+	url = https://github.com/rebase-network/Dapp-Learning.git
