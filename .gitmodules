@@ -1,3 +1,6 @@
 [submodule "Dapp-Learning"]
 	path = Dapp-Learning
 	url = https://github.com/rebase-network/Dapp-Learning.git
+[submodule "blockchainer-roadmap"]
+	path = blockchainer-roadmap
+	url = https://github.com/Blockchain-zju/blockchainer-roadmap.git
